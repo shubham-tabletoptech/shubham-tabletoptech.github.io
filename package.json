@@ -1,0 +1,12 @@
+{
+  "name": "shubham-tabletoptech.github.io",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m Shubham Mishra - 👀 I’m interested in Laravel and JS Framework - 🌱 I’m currently learning Angular - 💞️ I’m looking to collaborate on Laravel and angular projects - 📫 How to reach me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
