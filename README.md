@@ -1,1 +1,5 @@
-# shubham-tabletoptech.github.io
+- 👋 Hi, I’m Shubham Mishra
+- 👀 I’m interested in Laravel and JS Framework
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Laravel and angular projects
+- 📫 How to reach me 
